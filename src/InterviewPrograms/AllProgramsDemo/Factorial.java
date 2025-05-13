@@ -25,6 +25,8 @@ public class Factorial {
 
         }
         System.out.println("Factorial:" + fact);
+        //changed the program
+
 
     }
 }
